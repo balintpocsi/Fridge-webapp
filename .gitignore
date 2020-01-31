@@ -1,0 +1,18 @@
+# Gradle
+# ------
+.gradle
+/build
+/buildSrc/build
+
+# IDEA
+/.idea/*
+/build
+
+*.jar
+*.war
+*.ear
+
+*.class
+
+!gradle-wrapper.jar
+
